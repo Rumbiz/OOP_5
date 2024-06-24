@@ -1,6 +1,6 @@
-package OOP5.view;
+package OOP5.View;
 
-import OOP5.model.StudentGroup;
+import OOP5.Model.StudentGroup;
 
 public class StudentGroupView {
     public void sendOnConsole(StudentGroup studentGroup){
