@@ -1,6 +1,6 @@
-package OOP5.view;
+package OOP5.View;
 
-import OOP5.model.Student;
+import OOP5.Model.Student;
 
 import java.util.List;
 
