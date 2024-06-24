@@ -1,8 +1,8 @@
-package OOP5.service;
+package OOP5.Service;
 
-import OOP5.model.Student;
-import OOP5.model.StudentGroup;
-import OOP5.model.Teacher;
+import OOP5.Model.Student;
+import OOP5.Model.StudentGroup;
+import OOP5.Model.Teacher;
 
 import java.util.List;
 
