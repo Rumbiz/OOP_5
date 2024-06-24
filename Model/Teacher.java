@@ -1,4 +1,4 @@
-package OOP5.model;
+package OOP5.Model;
 
 public class Teacher extends User {
     private Integer teacherId;
