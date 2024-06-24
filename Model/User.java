@@ -1,5 +1,5 @@
 
-package OOP5.model;
+package OOP5.Model;
 
 public abstract class User{
 	private String surname;
