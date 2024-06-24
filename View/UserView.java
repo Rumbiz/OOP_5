@@ -1,6 +1,6 @@
-package OOP5.view;
+package OOP5.View;
 
-import OOP5.model.User;
+import OOP5.Model.User;
 
 import java.util.List;
 
