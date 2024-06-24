@@ -1,9 +1,9 @@
-package OOP5.service;
+package OOP5.Service;
 
-import OOP5.model.Student;
-import OOP5.model.Teacher;
-import OOP5.model.Type;
-import OOP5.model.User;
+import OOP5.Model.Student;
+import OOP5.Model.Teacher;
+import OOP5.Model.Type;
+import OOP5.Model.User;
 
 import java.util.ArrayList;
 import java.util.List;
